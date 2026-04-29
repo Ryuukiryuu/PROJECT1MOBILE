@@ -282,3 +282,17 @@ https://www.figma.com/design/7Uo9ZhhQ51jbHYT4OKgsOp/Untitled?node-id=0-1&t=Zj0VZ
 
 <img width="1920" height="1080" alt="Tanpa judul (Presentasi) (2)" src="https://github.com/user-attachments/assets/c117beda-7a31-41d7-995b-84308a1e0ad4" />
 
+Commit message yang disarankan:
+feat: rebuild UI design system + add AI features
+
+- Rebuild activity_login, activity_register, activity_my_card
+- Rebuild activity_edit_profile, activity_dashboard
+- Rebuild activity_ai_assistant, activity_qr_code, activity_forgot_password
+- Add new drawable design system (bg_button_primary, bg_input_field, dll)
+- Add AI Generate Bio → import langsung ke Edit Profil
+- Add Enhance Foto: HD sharpening, simpan galeri, set profil
+- Fix foto profil via Base64 ke Firestore (no Firebase Storage)
+- Fix Gemini API URL ke gemini-2.5-flash v1 endpoint
+- Fix Firestore Rules expired
+- Fix loading terus di AI chatbot (error handling)
+- Strip markdown bold/italic dari Gemini response
