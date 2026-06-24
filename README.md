@@ -309,8 +309,8 @@ Foto profil ditampilkan dari Base64 yang tersimpan di Firestore field `photoUrl`
 
 ## Links
 
-- **Figma:** https://www.figma.com/design/7Uo9ZhhQ51jbHYT4OKgsOp/Untitled?node-id=0-1&t=Zj0VZ235WDbl9mnx-1
-- **ClickUp Timeline:** https://sharing.clickup.com/90181757899/g/h/2kzm0uyb-638/29fc368dcde01f7
+- **Figma:** https://www.figma.com/design/7rAZhrMLyJTur0HJrF8aN4/Untitled?node-id=0-1&t=ti0ZVX4kmgtjsyer-1
+- **ClickUp Timeline:** https://sharing.clickup.com/90181757899/b/h/6-901817844631-2/6a5a70259283a2f
 - **Web Profile:** https://id-card-digital.web.app
 
 ---
